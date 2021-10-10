@@ -3,3 +3,51 @@
 .bg-blue {
     background-color: lightblue;
 }
+
+/* hero section*/
+
+.hero {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.hero .logo {
+    display: inline-block;
+    height: 100px;
+    margin-bottom: 40px;
+}
+
+.hero .title {
+    display: inline-block;
+    margin-bottom: 20px;
+    width: 100%;
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.hero .subtitle {
+    display: inline-block;
+    margin-bottom: 60px;
+    width: 100%;
+    font-size: 18px;
+    line-height: 22px;
+    color: #555;
+}
+
+.hero .clock {
+    margin-bottom: 60px;
+}
+
+.hero form {
+    margin-bottom: 20px;
+}
+
+.hero .mouse {
+
+}
+
+
+/*main section*/
+
+/*footer section*/
