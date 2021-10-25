@@ -8,11 +8,11 @@
     width: 25%;
     float: left;
 }
-.clock > .time > .value{
+.clock > .time > .value {
     font-size: 60px;
     line-height: 60px;
 }
-.clock > .time > .labels{
+.clock > .time > .label {
     font-size: 15px;
     line-height: 15px;
     text-transform: uppercase;
